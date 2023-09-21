@@ -1,0 +1,46 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color:#94B0DA;
+}
+
+.container {
+    display: flex;
+    flex-direction:column;
+    width: 40%;  
+    height: 2%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.box {
+    display: flex;
+    border: 1px solid rgba(204, 204, 204, 0.5);
+    background-color: aliceblue;
+    padding: 1px;
+    text-align:justify;
+}
+
+.content_text {
+    align-items:center;
+    text-align: justify;
+ 
+}
+
+.imagen {
+    display: flex;
+    margin: 2%;
+    max-width: 20%;
+    max-height:20%;
+    border-radius: 50%; 
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    color: rgba(119, 119, 119, 0.5);
+}
