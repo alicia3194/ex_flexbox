@@ -23,9 +23,8 @@ body {
 }
 
 .content_text {
-    align-items:center;
     text-align: justify;
- 
+    margin-top: 5%;
 }
 
 .imagen {
